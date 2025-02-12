@@ -88,6 +88,7 @@ h2 {
 
 .pick {
     display: flex;
+    justify-content: space-between;
 }
 
 h3 {
